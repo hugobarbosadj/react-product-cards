@@ -1,6 +1,6 @@
 {
   "name": "@mdbootstrap/react-product-cards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "template for mdb-react-ui-kit",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
