@@ -1,6 +1,6 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
+  "name": "@mdbootstrap/react-product-cards",
+  "version": "1.0.0",
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
@@ -19,7 +19,17 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "product",
+    "cards",
+    "product-cards"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -34,5 +44,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-product-cards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-product-cards/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/product-cards/"
 }
